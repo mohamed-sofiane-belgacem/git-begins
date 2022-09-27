@@ -3,4 +3,4 @@ git clone https://github.com/mohamed-sofiane-belgacem/git-begins.git
 git add .
 git commit -m "test"
 git push 
-push pull
+git pull
